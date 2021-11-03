@@ -1,4 +1,4 @@
 ﻿1- Export Data from Juhaina program.
 2- Import Data to SQL.
-3- Add Type ID to last colume in all Tables related to LoanType.
-4- 
+3- Add Code ID to last colume in all Tables related to LoanCode.
+4- Add Type ID to last colume in all Tables related to LoanType.
